@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Quiz Game", "Quiz Game\Quiz Game.pyproj", "{5FBC932D-654A-46A6-909A-34AD4A3B9720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FBC932D-654A-46A6-909A-34AD4A3B9720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBC932D-654A-46A6-909A-34AD4A3B9720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E76EB1ED-EA40-47A2-AE5D-B4973BCACD1E}
+	EndGlobalSection
+EndGlobal
